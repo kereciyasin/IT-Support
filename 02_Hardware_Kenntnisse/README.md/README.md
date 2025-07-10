@@ -165,3 +165,83 @@ Sie führt alle Rechenoperationen durch, verarbeitet Daten und steuert andere Ko
 📌 **Beispiel:** Für einfache Büroarbeiten reicht oft eine günstige CPU mit weniger Kernen.
 
 
+# Abschnitt 2.3 – Arbeitsspeicher (RAM)
+
+## Was ist RAM?
+Der **RAM (Random Access Memory)** ist der temporäre Speicher des Computers.  
+- Daten, die während eines laufenden Prozesses verwendet werden, werden im RAM gespeichert.  
+- Sobald der Computer ausgeschaltet wird, gehen alle Daten im RAM verloren.  
+
+📌 **Beispiel:** Wenn du an einer Word-Datei arbeitest, ohne sie zu speichern, wird sie beim Ausschalten gelöscht.
+
+---
+
+## Wofür wird RAM verwendet?
+
+- Ermöglicht schnelles Arbeiten von Programmen  
+- Sorgt für kontinuierlichen Datenfluss zur CPU → höhere Systemleistung  
+- Ermöglicht das gleichzeitige Ausführen mehrerer Anwendungen  
+
+📌 **Beispiel:** Du kannst gleichzeitig Musik hören und im Internet surfen – dank RAM.
+
+---
+
+## Warum ist RAM flüchtig?
+
+- RAM benötigt Strom zum Funktionieren.  
+- Bei Stromausfall gehen Daten sofort verloren.  
+- Für die dauerhafte Speicherung werden SSD/HDD genutzt.  
+
+📌 **Beispiel:** Ein ungespeichertes Dokument wird bei Stromausfall gelöscht, weil es nur im RAM gespeichert war.
+
+---
+
+## DRAM-Typen: DDR, DDR2, DDR3, DDR4, DDR5
+
+| Typ    | Eigenschaften                                 |
+|--------|-----------------------------------------------|
+| DDR    | Erste Generation von SDRAM mit Double Data Rate |
+| DDR2   | Verbesserte Geschwindigkeit & Energieeffizienz |
+| DDR3   | Höhere Bandbreite, niedrigere Spannung         |
+| DDR4   | ~50 % mehr Bandbreite als DDR3                 |
+| DDR5   | Höchste Geschwindigkeit & Effizienz            |
+
+---
+
+## Faktoren, die die RAM-Geschwindigkeit beeinflussen
+
+- **Taktfrequenz (MHz):** Höhere Frequenz → schnellere Datenübertragung  
+- **CAS-Latenz:** Geringere Latenz → schnellere Reaktionszeit  
+- **Bandbreite (GB/s):** Mehr Bandbreite → mehr Daten gleichzeitig  
+- **Anzahl der Kanäle:** Mehr Kanäle → bessere Performance  
+
+---
+
+## RAM-Kapazität & Systemleistung
+
+- Ausreichender RAM = flüssiges Arbeiten  
+- Virtueller Speicher wird bei RAM-Mangel verwendet → Leistungsverlust  
+- Zu wenig RAM = Hänger, Abstürze  
+
+| Kapazität         | Auswirkungen              |
+|-------------------|---------------------------|
+| Ausreichend       | Keine Probleme            |
+| Nur virtuell      | Leistungseinbußen         |
+| Unzureichend      | Ruckeln, Abstürze         |
+
+---
+
+## RAM und Gaming-Performance
+
+- **Schnelles Laden:** Spiele starten schneller  
+- **Höhere FPS:** Flüssigeres Spiel  
+- **Weniger Fehler:** Stabilere Spieleumgebung  
+
+---
+
+## RAM in Serversystemen
+
+- Server benötigen viel RAM für Datenverfügbarkeit  
+- **ECC-**
+
+
