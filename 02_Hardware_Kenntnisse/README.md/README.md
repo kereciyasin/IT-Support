@@ -245,3 +245,67 @@ Der **RAM (Random Access Memory)** ist der temporäre Speicher des Computers.
 - **ECC-**
 
 
+# Abschnitt 2.4 – Speichergeräte: HDD, SSD, NVMe
+
+## Was ist ein Speichergerät?
+
+Ein Speichergerät speichert dauerhaft Daten auf dem Computer – auch wenn der Strom abgeschaltet ist.
+
+---
+
+## HDD (Hard Disk Drive)
+
+- Mechanisches Speichermedium mit rotierenden Scheiben
+- Günstiger, aber langsamer und stoßempfindlich
+
+📌 **Beispiel:** Wird häufig in älteren Desktop-PCs für große Datenmengen verwendet.
+
+---
+
+## SSD (Solid State Drive)
+
+- Keine beweglichen Teile, Daten werden auf Chips gespeichert
+- Schneller, leiser und robuster als HDDs
+- Teurer als HDDs
+
+📌 **Beispiel:** Die meisten modernen Laptops verwenden SSDs für ein schnelleres Hochfahren.
+
+---
+
+## NVMe (Non-Volatile Memory Express)
+
+- Weiterentwicklung der SSD, direkt auf dem Mainboard über PCIe verbunden
+- Sehr hohe Übertragungsraten (mehrere GB/s)
+- Ideal für Hochleistungssysteme und Gaming-PCs
+
+📌 **Beispiel:** Gaming-PCs oder Workstations nutzen NVMe für ultraschnellen Zugriff.
+
+---
+
+## Kapazitätsvergleich
+
+| Typ    | Typische Kapazität          |
+|--------|-----------------------------|
+| HDD    | 1 – 4 TB, kostengünstig     |
+| SSD    | 256 GB – 1 TB, ausgewogen   |
+| NVMe   | 512 GB – 2 TB, teuer        |
+
+---
+
+## Geschwindigkeitsvergleich
+
+| Typ    | Typische Geschwindigkeit    |
+|--------|-----------------------------|
+| HDD    | 100–150 MB/s                |
+| SSD    | 500–550 MB/s                |
+| NVMe   | 3000–7000 MB/s              |
+
+---
+
+## Anwendungsbereiche
+
+- **HDD:** Ideal für Archivierung, Fotos, Filme
+- **SSD:** Gut für Betriebssystem und Programme
+- **NVMe:** Perfekt für professionelle Aufgaben (z. B. Videobearbeitung)
+
+📌 **Beispiel:** Ein Videoeditor nutzt NVMe für schnelleres Rendering.
