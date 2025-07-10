@@ -84,3 +84,84 @@ Das **Mainboard** ist die zentrale Leiterplatte, die alle Hardwarekomponenten ei
 
 📌 **Beispiel:** Beim Kauf einer neuen Grafikkarte muss sichergestellt werden, dass ein kompatibler PCIe-Slot und ausreichende Stromversorgung vorhanden sind.
 
+
+# Abschnitt 2.3 – Die CPU (Prozessor): Das Gehirn des Computers
+
+## Was ist eine CPU?
+
+Die **CPU (Central Processing Unit)** ist das Gehirn des Computers.  
+Sie führt alle Rechenoperationen durch, verarbeitet Daten und steuert andere Komponenten.
+
+📌 **Beispiel:** Wenn ein Benutzer eine Webseite öffnet, analysiert die CPU deren Inhalte und zeigt sie an.
+
+---
+
+## Wofür ist die CPU verantwortlich?
+
+- Führt Befehle aus, die von der Software gegeben werden
+- Führt mathematische und logische Operationen aus
+- Koordiniert die Zusammenarbeit mit anderen Hardware-Komponenten
+
+📌 **Beispiel:** Die Verarbeitung von Spielgrafiken hängt von der CPU-Leistung ab.
+
+---
+
+## Wie funktioniert eine CPU?
+
+1. Holt Daten aus dem RAM
+2. Analysiert und führt den Befehl aus
+3. Gibt das Ergebnis zurück oder startet einen neuen Prozess
+
+📌 **Beispiel:** Bei einer Berechnung 5 + 3 liefert die CPU das Ergebnis.
+
+---
+
+## CPU-Taktfrequenz (GHz)
+
+- Misst die Geschwindigkeit der CPU in **Gigahertz (GHz)**
+- Je höher der Wert, desto schneller die Ausführung
+- Die Anzahl der Kerne ist ebenfalls entscheidend
+
+📌 **Beispiel:** Eine 3,0 GHz CPU kann mehrere Aufgaben gleichzeitig schneller ausführen.
+
+---
+
+## Anzahl der CPU-Kerne
+
+- **Single-Core:** Führt nur eine Aufgabe zur selben Zeit aus  
+- **Multi-Core (Dual, Quad, Octa):** Führt mehrere Aufgaben gleichzeitig aus  
+- Besseres **Multitasking** bei mehr Kernen
+
+📌 **Beispiel:** Video schauen und gleichzeitig Downloads – dank Multi-Core möglich.
+
+---
+
+## CPU und Hitze
+
+- CPUs erhitzen sich während des Betriebs
+- **Kühler** (Luft- oder Wasserkühlung) sind notwendig
+- Überhitzung kann die Leistung senken und Komponenten schädigen
+
+📌 **Beispiel:** Wenn der Lüfter beim Spielen laut wird, arbeitet die CPU intensiv.
+
+---
+
+## Beziehung zwischen CPU und RAM
+
+- Die CPU verarbeitet Daten, die vom RAM geliefert werden
+- Schneller RAM = schnellere Datenübertragung zur CPU
+- Gute RAM/CPU-Kompatibilität erhöht die Gesamtleistung
+
+📌 **Beispiel:** Bei zu wenig RAM muss die CPU warten, was das System verlangsamt.
+
+---
+
+## Die richtige CPU auswählen
+
+1. Taktfrequenz (GHz), Kernanzahl und Cache beachten
+2. Passend zum Verwendungszweck (Gaming, Office, Design)
+3. Energieverbrauch und Kompatibilität berücksichtigen
+
+📌 **Beispiel:** Für einfache Büroarbeiten reicht oft eine günstige CPU mit weniger Kernen.
+
+
